@@ -38,6 +38,8 @@ A demás de esto buscamos usuarios de la aplicación que ya hayan hecho un pedid
 y nos contaron su experiencia, en general se encuentra conforme con la app pero no así con el despacho, ya que quien tiene suerte recibe el pedido dentro de la hora de plazo, David parra, comenta que su despacho según el horario seleccionó llegó dos horas tarde y que esperar te hace perder tiempo ya que debes esperar en tu casa sin poder salir temiendo a que lleguen y no te encuentren. Y finalmente su pedido no llegó gracias a la app si no que, dentro de su búsqueda por respuestas encontró un número de whatsapp desde donde volvió a solicitar el gas.
 También se hicieron llamadas al call center de abastible donde se les preguntó a los ejecutivos cuál era la pregunta o las consultas más frecuentes con respecto a  la app, y comentaban que las relacionadas con la llegada del despacho, confirmando si fue recibido, saber cuánto falta para que llegue y si existe algún problema  cuando están fuera del plazo de entrega.
 
+![pantallas](assets/reclamo1.jpg)
+![pantallas](assets/reclamo2.jpg)
 
 Gracias a esta información confirmamos que los usuarios necesitan información sobre su despacho , nuestra idea fue agregar en el botón  “ tu pedido está en camino , la opción de darle seguimiento a tu despacho. El cual fue creado por las desarrolladoras de nuestro equipo con React.
 
