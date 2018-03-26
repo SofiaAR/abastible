@@ -43,6 +43,8 @@ También se hicieron llamadas al call center de abastible donde se les preguntó
 
 Gracias a esta información confirmamos que los usuarios necesitan información sobre su despacho , nuestra idea fue agregar en el botón  “ tu pedido está en camino , la opción de darle seguimiento a tu despacho. El cual fue creado por las desarrolladoras de nuestro equipo con React.
 
+Accede al repositorio de las desarrolladoras aquí: https://github.com/AGuerrav/hackathonReact_ 
+
 # Mejoras en prototipo:
 
 ![tres pantallas](assets/sofi.jpg)
