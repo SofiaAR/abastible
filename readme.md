@@ -4,6 +4,9 @@
 
 ![logo-abastible](https://user-images.githubusercontent.com/32286410/37991557-e5664348-31df-11e8-8978-185b5f6896eb.jpg)
 
+## Desarrollado para
+[Laboratoria Chile](https://marvelapp.com/85ge7i7/screen/40137366)
+
 
 Con nuestro equipo de trabajo nos dimos como desafío generar alguna mejora a la app de abastible ¿Por qué abastible y no otra? esto se debe a que descargamos la aplicación y la probamos, visualmente es muy atractiva , hay coherencia entre un paso y otro , los elementos se mantienen y su lenguaje es cercano ,pero ¿cuáles fueron los elementos que consideramos debían mejorarse? 
 
