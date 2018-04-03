@@ -48,7 +48,7 @@ Gracias a esta información confirmamos que los usuarios necesitan información 
 
 Accede al repositorio de las desarrolladoras aquí: https://github.com/AGuerrav/hackathonReact_ 
 
-# Mejoras en prototipo:
+## Mejoras en prototipo:
 
 ![tres pantallas](assets/sofi.jpg)
 
